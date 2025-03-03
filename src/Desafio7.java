@@ -1,5 +1,3 @@
-package DesafioIdiota;
-
 import java.util.Scanner;
 
 //Crie um programa que exiba a tabuada de um número.

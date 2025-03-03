@@ -1,5 +1,3 @@
-package DesafioIdiota;
-
 //Crie um programa que some todos os elementos de um array de números inteiros.
 public class Desafio5 {
     public static void main(String[] args) {

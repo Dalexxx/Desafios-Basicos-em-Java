@@ -1,5 +1,3 @@
-package DesafioIdiota;
-
 public class ContaBancaria {
 
     private int numeroConta;

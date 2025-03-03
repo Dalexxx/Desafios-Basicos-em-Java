@@ -1,6 +1,3 @@
-package DesafioIdiota;
-
-
 import java.util.Random;
 import java.util.Scanner;
 
@@ -10,7 +7,7 @@ public class Desafio9 {
         Random random = new Random();
         Scanner sc = new Scanner(System.in);
 
-        System.out.println("Tente adivinhar o número que eu escolhi");
+        System.out.println("Escolhi um número de 1 a 100, tente adivinhar qual foi");
 
         int player = 0;
         int pc = random.nextInt(100) + 1;

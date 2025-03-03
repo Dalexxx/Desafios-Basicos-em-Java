@@ -1,5 +1,3 @@
-package DesafioIdiota;
-
 import java.util.Scanner;
 
 //Desafio 3: Contador de Vogais

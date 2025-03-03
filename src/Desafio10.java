@@ -1,5 +1,3 @@
-package DesafioIdiota;
-
 //ContaBancaria conta = new ContaBancaria(12345, "João Silva");
 //conta.depositar(1000);
 //conta.sacar(300);
